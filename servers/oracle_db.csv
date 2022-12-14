@@ -1,0 +1,2 @@
+host,port,service,username,password
+localhost,1522,xepdb1,system,admin
