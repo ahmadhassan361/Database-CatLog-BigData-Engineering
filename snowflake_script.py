@@ -6,6 +6,8 @@ def run_snowflake_script():
         user='ahmadhassan361',
         password='Jarvis_22',
         account='ynpuanh-te32705'
+        # account='gh27784.west-europe.azure'
+        # account='KJ80938.GH27784'
         )
     cs = ctx.cursor()
     try:
